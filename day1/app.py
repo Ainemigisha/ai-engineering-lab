@@ -1,9 +1,9 @@
-from fastapi import FastAPI
-from pydantic import BaseModel
-import httpx
 import asyncio
 
+import httpx
+from fastapi import FastAPI
 from fetch_posts import Post, fetch_post
+from pydantic import BaseModel
 
 app = FastAPI()
 
