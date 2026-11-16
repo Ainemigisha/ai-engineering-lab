@@ -1,16 +1,16 @@
 import asyncio
 import os
 import time
-from dataclasses import dataclass
 
 import httpx
 from dotenv import load_dotenv
+from pydantic import BaseModel
 
 load_dotenv()
 BASE_URL = os.environ["BASE_URL"]
 
-@dataclass
-class Post:
+#@dataclass
+class Post(BaseModel):
     id: int
     title: str
     body: str
@@ -21,8 +21,8 @@ async def fetch_post(client: httpx.AsyncClient, post_id: int) -> Post:
     response = await client.get(url)
     response.raise_for_status()
     data = response.json()
-    return Post(id = data["id"], title=data["title"], body=data["body"])
-    #return Post(*response.json())
+    #return Post(id = data["id"], title=data["title"], body=data["body"])
+    return Post.model_validate(data)
 
 
 async def main() -> None:
