@@ -1,0 +1,7 @@
+1. Temperature 0 was not repeatable. Your three runs at 0 differ in wording, structure and length (161, 154 and 216 output tokens). This is the point from earlier: 0 lowers randomness but does not remove it. Thinking models make it more visible. Your thinking tokens ranged from 567 to 774, so the model took a different reasoning path each time before it wrote the answer.
+
+2. Temperature 1.5 did not make it wild. A clear system prompt plus a factual question pulls every run toward the same content: free, online, needs NIN, needed for a trading licence and a bank account. Temperature mostly changes how the answer is worded, and with reasoning models the effect is smaller than with older models.
+
+3. The facts mostly agree, with one warning sign. Run 3 at temperature 0 says a TIN is a “10-digit number”. None of the other runs say that, and your system prompt told it not to state details it is not sure of. It may be true, but you cannot tell from this output. That is exactly why Wednesday’s RAG app answers only from URA documents, with citations. Make a note of this claim and check it against the URA guides on Wednesday.
+
+4. Look at the prompt tokens: 75 instead of 9. The system prompt is sent and billed on every call. A long system prompt across 600 benchmark calls adds up.
