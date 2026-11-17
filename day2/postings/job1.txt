@@ -1,0 +1,30 @@
+Our client is looking for an AI LLM Engineer to help build and improve AI-powered products. In this role, you will develop and integrate large language model (LLM) solutions, turning product and user needs into reliable, high-quality features.
+
+You will work with engineering and product colleagues in a remote, international environment, contributing across the LLM development lifecycle—from experimentation and evaluation to deployment and ongoing improvement.
+
+Your Role
+Design, develop and integrate LLM-powered features and services
+Build and maintain reliable backend components and APIs for AI applications
+Develop and refine prompts, workflows and model configurations to improve response quality
+Explore techniques such as retrieval-augmented generation (RAG), embeddings and tool use where appropriate
+Evaluate model outputs for quality, accuracy, consistency and relevance using appropriate tests and metrics
+Monitor AI features in production and investigate performance or reliability issues
+Collaborate with product, engineering and other stakeholders to define requirements and deliver solutions
+Contribute to decisions about model selection, integration approaches and system architecture
+Apply responsible AI practices, considering privacy, security, safety and potential model limitations
+Document technical decisions, workflows and evaluation results
+Keep up to date with developments in LLMs and related AI technologies, identifying opportunities to improve products
+
+Your Qualifications
+Professional experience in software engineering, machine learning or a related technical role
+Experience building applications or services that use large language models
+Strong programming skills in Python or another relevant language
+Understanding of LLM APIs, prompt design and the strengths and limitations of generative AI models
+Experience with backend development, APIs and integrating external services
+Familiarity with evaluation methods for AI systems, including testing model outputs and tracking quality
+Understanding of data handling, privacy and security considerations when working with AI systems
+Experience with RAG, vector databases, embeddings or AI orchestration frameworks is an advantage
+Familiarity with cloud platforms, containers, CI/CD or production monitoring is an advantage
+Strong analytical and problem-solving skills, with attention to reliability and maintainability
+Clear communication skills and the ability to collaborate effectively in a remote team
+Comfortable working independently, managing priorities and adapting to a fast-changing technical landscape
