@@ -1,0 +1,24 @@
+{
+  "title": "Software Engineer",
+  "seniority": "Senior",
+  "required_skills": [
+    "TypeScript",
+    "JavaScript ecosystem",
+    "AI ecosystem",
+    "Developer tools",
+    "Evaluation frameworks",
+    "Postgres",
+    "Relational database practice"
+  ],
+  "nice_to_have_skills": [
+    "Vector databases and embeddings",
+    "pgvector",
+    "Customer-facing AI features",
+    "Documentation or structured knowledge",
+    "Braintrust",
+    "CI quality gates",
+    "Open-source contributions",
+    "Developer tooling"
+  ],
+  "location_eligibility": "Not stated"
+}

@@ -1,0 +1,25 @@
+[Hiring] AI Engineer @Certa
+Role Description
+We're looking for an experienced, innovative AI Engineer to push the boundaries of LLM technology and build intelligent features for our enterprise platform. Pairing strong Python and cloud backend skills with hands-on generative AI experience (LLMs, prompt engineering, RAG, and agents), you'll design and deploy AI-driven solutions from prototype to production - helping define a new class of engineering role that blends robust system design with state-of-the-art AI.
+What You'll Do
+Design & ship AI features:
+Lead the design, development, and deployment of generative AI and LLM-powered services — intelligent chatbots, AI-driven recommendations, workflow automation - that deliver engaging, human-centric experiences.
+Build RAG pipelines:
+Design, implement, and continuously optimize end-to-end RAG pipelines (data ingestion and parsing, chunking, vector indexing, prompt engineering) so our systems retrieve and use knowledge accurately.
+Build LLM agents:
+Develop and refine LLM-based agentic systems for complex, multi-step tasks - incorporating planning, memory, and tool use, and applying emerging best practices to make agents more reliable.
+Evaluate & iterate:
+Rigorously evaluate models and pipelines on accuracy, latency, and hallucination rate, using thorough testing and user feedback to improve prompts, parameters, and data processing.
+Engineer for production:
+Write clean, maintainable, testable code with strong monitoring and logging, ensuring AI components are scalable and fit the overall system architecture.
+Collaborate & innovate:
+Partner with product, design, and engineering to integrate AI seamlessly into products, mentor teammates on generative AI best practices, and continuously explore new AI advancements to bring into the platform.
+Qualifications
+Software engineering: 3+ years (mid-level) / 5+ years (senior) of backend engineering, with expert Python, scalable API/service design, strong system design, and experience deploying on AWS or similar cloud platforms.
+LLM application experience: Proven experience building real products on LLMs/generative AI (chatbots, semantic search, AI assistants), with hands-on RAG and agent work and a solid grasp of model behavior and failure modes.
+Applied AI depth: Strong in prompt design, function calling/structured outputs, tool use, context-window management, and the RAG levers that matter (parsing/chunking, metadata, re-ranking, embedding/model selection); pragmatic model/provider trade-offs (latency, cost, context, safety); product-aligned evaluation (golden sets, prompt unit tests, offline checks, online A/Bs); and fundamentals of embeddings, tokenization, vector search, and transformers.
+Tooling: Hands-on with LLM orchestration libraries (LangChain, LlamaIndex) and vector databases (Pinecone, Chroma, Milvus).
+Cloud & DevOps: Able to productionize LLM/RAG services as high-availability, low-latency backends on AWS (ECS/EKS/Lambda, API Gateway/ALB, S3, DynamoDB/Postgres, OpenSearch, SQS/SNS/Step Functions, KMS, VPC) with IaC (Terraform/CDK), strong observability, security (PII handling, encryption, least-privilege IAM), progressive delivery (blue/green, canary, feature flags), and cost/latency strategies like caching, batching, streaming, and multi-provider fallbacks.
+Communication & autonomy: Excellent communication to explain complex AI concepts to non-technical stakeholders, plus a self-directed, "figure it out" approach to troubleshooting across the stack and rapid prototyping in a fast-paced environment.
+Requirements
+Nice to have: Enterprise B2B SaaS experience; full-stack/frontend depth (modern frameworks or Node.js); complex multi-agent or multi-modal AI; early-stage startup experience; and active involvement in the AI community (open source, research, or blogging).

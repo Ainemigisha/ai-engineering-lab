@@ -1,0 +1,28 @@
+{
+  "title": "Senior Full Stack Engineer (.NET/React) - AI Services",
+  "seniority": "Senior",
+  "required_skills": [
+    "C#",
+    ".NET 8.0",
+    "Azure Services",
+    "Entity Framework Core",
+    "React with TypeScript",
+    "Microservices architectures",
+    "Event-driven systems",
+    "Azure Service Bus",
+    "MassTransit",
+    "SQL database",
+    "AI coding agents",
+    "English"
+  ],
+  "nice_to_have_skills": [
+    "Python",
+    "LLM APIs",
+    "Regulated domains",
+    "AKS",
+    "Kubernetes",
+    "Developer tooling",
+    "CI/CD"
+  ],
+  "location_eligibility": "Not stated"
+}

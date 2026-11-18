@@ -1,0 +1,54 @@
+Senior Full Stack Engineer (.NET/React) - AI Services
+PROJECT OVERVIEW
+
+Our client is building the software that hearing clinics run on patient records, bookings, hearing tests and sales. Clinic chains and hospitals use it every day. You join the team that owns the Sales domain: quote, invoice, insurance claim and payment. We are looking for a Senior Full Stack Engineer who ships business outcomes, not just tickets. You own features end to end - from why a clinic needs them, through design and build, to checking in production that they worked. AI coding agents are a normal part of every step of your work.
+
+Tech environment:C# / .NET 8.0, Azure Services (Azure SQL, AI Search, Service Bus, App Insights, Data Factory), Entity Framework Core, Docker, Kubernetes, MassTransit, React with TypeScript, plus growing use of Python for AI tooling and experimentation.
+
+IN THIS ROLE, YOU WILL
+
+Design, build and run full-stack features in the Sales domain: .NET services, event-driven integrations and React front end.
+Work with the Product Owner and QA from discovery onwards. Shape the spec and agree acceptance criteria before code is written.
+Find the gaps in a spec before you build. Close the small ones yourself and bring only business questions to the Product Owner.
+Use AI tools across the whole lifecycle: planning, design, build, testing, review and maintenance. Keep the human judgement on correctness, security and data protection.
+Own quality: unit and integration tests, code review, and non-functional requirements (performance, security, observability) as part of the design.
+Follow features into production: watch telemetry and usage, support releases, investigate incidents and close the loop with the product team.
+Contribute to architecture discussions and decision records with the Tech Lead and architects and help pay down tech debt in the sales flows.
+Make the team better at AI: mentor engineers and share the instructions, checks and small tools that work.
+Product Mindset
+
+As AI takes on more of the typing, the value of an engineer moves to judgement: knowing what to build, why, and what good looks like for the user. In this role you:
+
+Start every feature with the business question: who in the clinic uses it, and what problem it solves for them.
+Push back with alternatives when a request is expensive and a simpler solution gives most of the value.
+Explain technical trade-offs in business terms to Product Owners, delivery and customer-facing colleagues.
+Look at usage, support tickets and customer feedback after release, and feed what you learn into the next iteration.
+IF YOU ARE
+
+Typically 5+ years of software engineering experience, with a strong track record of building and running production systems. We value practical experience and demonstrated capabilities over years alone.
+Strong hands-on experience with C# and modern .NET, including:
+ASP.NETCore and Web APIs.
+Entity Framework / Entity Framework Core.
+Clean Architecture and maintainable application design.
+Solid frontend development experience using React and TypeScript, particularly for complex business applications.
+Practical experience designing and developing microservices architectures.
+Understanding of asynchronous communication and event-driven systems, ideally using:
+Azure Service Bus.
+
+MassTransit.
+
+Similar messaging and event-processing technologies.
+Strong SQL database experience, including relational data modelling and transactional business data.
+Experience with API design, automated testing, debugging, and security fundamentals.
+Hands-on experience using AI coding agents as part of everyday development, such as:
+Ability to demonstrate practical AI-assisted development workflows, including examples of reviewing AI-generated code, identifying mistakes, and understanding when AI should not be used.
+Strong product mindset, with examples of contributing to feature definition, understanding business needs, and influencing technical and product decisions.
+Good command of English (B2 or above), both written and spoken.
+NICE TO HAVE
+
+Python for AI tooling, evaluations and prototypes.
+Features built on LLM APIs: prompting, tool use, and measuring the quality of the results.
+Experience in regulated domains (medical devices, healthcare, finance) or with sensitive personal data.
+AKS / Kubernetes.
+
+You have built or improved developer tooling, CI/CD or AI agent setups that other engineers use.

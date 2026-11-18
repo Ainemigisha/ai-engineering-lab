@@ -1,0 +1,28 @@
+{
+  "title": "AI Engineer",
+  "seniority": "Senior",
+  "required_skills": [
+    "Python",
+    "Cloud backend",
+    "Generative AI",
+    "LLMs",
+    "Prompt engineering",
+    "RAG",
+    "Agents",
+    "AWS",
+    "LangChain",
+    "LlamaIndex",
+    "Vector databases",
+    "Terraform",
+    "CDK"
+  ],
+  "nice_to_have_skills": [
+    "Enterprise B2B SaaS",
+    "Full-stack development",
+    "Node.js",
+    "Multi-agent systems",
+    "Early-stage startup experience",
+    "AI community involvement"
+  ],
+  "location_eligibility": "Not stated"
+}

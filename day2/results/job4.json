@@ -1,0 +1,28 @@
+{
+  "title": "Backend Developer (.NET - C#)",
+  "seniority": "Senior",
+  "required_skills": [
+    "C#",
+    "C++",
+    "SQL",
+    "NoSQL",
+    "AWS",
+    "Azure",
+    "Docker",
+    ".NET Aspire",
+    "Prometheus",
+    "REST",
+    "gRPC",
+    "Git",
+    "CI/CD"
+  ],
+  "nice_to_have_skills": [
+    "Python",
+    "Java",
+    "Kubernetes",
+    "Node-RED",
+    "MQTT brokers",
+    "IoT platforms"
+  ],
+  "location_eligibility": "Not stated"
+}

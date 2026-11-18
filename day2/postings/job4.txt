@@ -1,0 +1,44 @@
+Backend Developer (.NET - C#)
+Company Overview:
+
+Datakrew is revolutionizing EV fleet intelligence with cutting-edge IoT/AI solutions. Our flagship solution, OXRED Platform Suite, provides deep insights into vehicle fleet performance and diagnostics. We have an active customer footprint in 7 countries. Our goal is to serve one million EVs within the next 5 years, and as a company, touch a billion lives with technology.
+
+Job Overview:
+
+We are looking for a highly skilled Backend Developer to join our talented team. This role is perfect for a versatile individual who thrives in a dynamic environment and is passionate about IoT/AI, data streaming, and modern web technologies with experience in production-grade software releases.
+
+Key Responsibilities:
+
+Design, build, and maintain server-side logic and databases.
+Implement APIs to support front-end applications and external services.
+Design and optimize database schemas.
+Write clean, maintainable, and well-documented code.
+Optimize code and database queries for performance, scalability, and reliability.
+Develop, implement, and maintain CI/CD pipelines using tools like Jenkins, GitLab CI, or GitHub Actions to automate the software development lifecycle.
+Set up, configure, and manage services on cloud platforms such as AWS or Azure to support scalable, resilient, and secure application architectures.
+Utilize Docker for containerized deployments, ensuring scalability and consistency across environments.
+Implement and manage Kubernetes for container orchestration, leveraging features such as auto-scaling and auto-healing.
+Implement monitoring solutions using tools like Prometheus to oversee the health and performance of applications.
+Integrate APIs and webhooks to connect and automate workflows between different systems.
+Use Git for version control and collaborate with the team on code management.
+Requirements:
+
+Strong command in C# and C++ for backend development.
+Proven experience in writing efficient database queries (both SQL and NoSQL), setting up database monitoring systems, etc.
+Extensive experience with cloud platforms like AWS or Azure, including setting up and managing their services.
+Strong knowledge of Docker for containerized deployments.
+Proficiency with monitoring technologies like .NET Aspire, Prometheus for application health and performance monitoring.
+Experience with API and webhook integrations using REST and gRPC.
+Proficiency in using Git for version control.
+Familiarity with CI/CD tools such as Jenkins, GitLab CI, or GitHub Actions.
+Ability to work independently and as part of a team with strong problem-solving skills.
+Preferred Qualifications:
+
+Bachelor’s or equivalent higher degree in Computer Science, Software Engineering, or a related field.
+6-12 years of experience in a similar role.
+Strong problem-solving skills and ability to work independently as well as in a team.
+Excellent communication skills, both verbal and written.
+Familiarity with additional programming languages or technologies (e.g., Python, Java).
+Familiarity with Kubernetes for container orchestration.
+Experience with flow creations using Node-RED and setting up MQTT brokers.
+Experience with other IoT platforms and technologies is a plus.

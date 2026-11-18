@@ -30,3 +30,4 @@ def analyse(posting: str) -> str:
 if __name__ == "__main__":
     posting_file = Path(sys.argv[1])
     print(analyse(posting_file.read_text()))
+    

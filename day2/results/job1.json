@@ -1,0 +1,28 @@
+{
+  "title": "AI LLM Engineer",
+  "seniority": "Not stated",
+  "required_skills": [
+    "Software engineering",
+    "Machine learning",
+    "Large language models",
+    "Python",
+    "LLM APIs",
+    "Prompt design",
+    "Backend development",
+    "APIs",
+    "AI systems evaluation",
+    "Data handling",
+    "Privacy and security"
+  ],
+  "nice_to_have_skills": [
+    "RAG",
+    "Vector databases",
+    "Embeddings",
+    "AI orchestration frameworks",
+    "Cloud platforms",
+    "Containers",
+    "CI/CD",
+    "Production monitoring"
+  ],
+  "location_eligibility": "remote"
+}
