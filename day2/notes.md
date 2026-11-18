@@ -1,0 +1,1 @@
+v2 was more precise than v1, the two remaining problems, and the model you used. Results depend on the model, so recording the exact model name with each result is a habit worth starting now.
