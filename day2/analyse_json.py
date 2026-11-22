@@ -49,11 +49,9 @@ def analyse(posting: str) -> JobAnalysis:
             ),
         )
         try:
-            # TODO: turn response.text into a JobAnalysis and return it
             return JobAnalysis.model_validate_json(response.text)
         except ValidationError as e:
             print(f"Attempt {attempt} failed: {e}")
-            # TODO: add the error to user_message so the model can fix it
             user_message += (
                 f"\n\nYour previous answer failed validation:\n{e}\n"
                 f"\nYour previous answer was:\n{response.text}\n"
